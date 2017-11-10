@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Quick Math</string>
+
+    <string-array name="level1">
+        <item>4</item>
+        <item>+</item>
+        <item>(</item>
+        <item>2</item>
+        <item>+</item>
+        <item>2</item>
+        <item>*</item>
+        <item>(</item>
+        <item>1</item>
+        <item>*</item>
+        <item>0</item>
+        <item>)</item>
+        <item>+</item>
+        <item>1</item>
+        <item>)</item>
+        <item>+</item>
+        <item>(</item>
+        <item>3</item>
+        <item>-</item>
+        <item>1</item>
+        <item>)</item>
+        <item>/</item>
+        <item>(</item>
+        <item>2</item>
+        <item>^</item>
+        <item>2</item>
+        <item>)</item>
+        <item>-</item>
+        <item>4</item>
+        <item>+</item>
+        <item>(</item>
+        <item>2</item>
+        <item>+</item>
+        <item>2</item>
+        <item>*</item>
+        <item>(</item>
+        <item>1</item>
+        <item>*</item>
+        <item>0</item>
+        <item>)</item>
+        <item>+</item>
+        <item>1</item>
+        <item>)</item>
+        <item>+</item>
+        <item>(</item>
+        <item>3</item>
+        <item>-</item>
+        <item>1</item>
+        <item>)</item>
+        <item>/</item>
+        <item>(</item>
+        <item>2</item>
+        <item>^</item>
+        <item>2</item>
+        <item>)</item>
+    </string-array>
+
+</resources>
